@@ -35,5 +35,5 @@ A small creative coding experiment made for Valentine's Day —
 because mathematics can be romantic too.🌹
 
 <p align="center">
-  <img src="./logo.png" width="180" alt="fractals-mel logo"/>
+  <img src="./logo_mel.png" width="180" alt="fractals-mel logo"/>
 </p>
